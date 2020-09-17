@@ -13,3 +13,10 @@ body {
 p {
     margin: 10px;
 }
+ img { 
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+    display: block;
+    border: indigo;
+}
